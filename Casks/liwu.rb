@@ -2,7 +2,7 @@ cask "liwu" do
   version "2.16.0"
   sha256 "b19a0937fe4a7eea807ebf129ec590f2220691fadc158df6c9e1d64134842e0b"
 
-  url "https://github.com/urfreespace/liwu-releases/releases/download/v#{version}/Liwu-#{version}.dmg"
+  url "https://github.com/liwuspace/liwu-releases/releases/download/v#{version}/Liwu-#{version}.dmg"
   name "Liwu"
   desc "Menu bar charge limiter, Keep Awake and menu bar icon organizer"
   homepage "https://liwu.app/"
